@@ -1,0 +1,9 @@
+node_module/
+.DS_Store
+*.log
+.idea
+haters/
+variables.env
+variables.env.now
+
+public/uploads/*
